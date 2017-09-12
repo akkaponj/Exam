@@ -9,7 +9,7 @@ class Header extends React.Component{
                 <h2>name : {this.props.name}</h2>
 
             </div>
-        )
+        );
     }
 }
 export default Header;
